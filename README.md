@@ -1,2 +1,2 @@
-# CodeAlpha_Python_programming
+# codealpha_tasks
 Python programming virtual internship
